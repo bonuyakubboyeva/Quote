@@ -1,0 +1,20 @@
+.contact {
+  padding: 40px;
+  font-family: Arial;
+}
+
+.contact h1 {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.contact-wrapper {
+  display: flex;
+  gap: 30px;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.contact-info {
+  max-width: 300px;
+}
